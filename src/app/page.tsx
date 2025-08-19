@@ -1,4 +1,3 @@
-import CountdownTimer from '@/components/CountdownTimer';
 
 
 export default function Home() {
@@ -27,7 +26,6 @@ export default function Home() {
           </div>
         </div>
         
-        <CountdownTimer />
         
         <div className="flex justify-center space-x-6">
           <a href="#" className="text-white/70 hover:text-white transition-colors duration-300">
